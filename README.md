@@ -2,7 +2,7 @@
 README perfil
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&width=500&lines=Hello+World!+My+name+is+Yann+Kalani;Um+iniciante+no+Front-End;HTML+%7C+CSS+%7C+JavaScript+%7C+ADS+2%C2%BA+semestre)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&width=500&lines=Hello+World!+My+name+is+Yann+Kalani;Um+iniciante+no+Front-End;HTML+%7C+CSS+%7C+JavaScript+%7C+ADS+2%C2%BA)
 
 </div>
 
@@ -30,20 +30,28 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ---
 
+## 🚀 Meu projeto pessoal
+
+[👉 Acesse e teste agora meu projeto para praticante de Jiu Jitsu!](https://yann-kalani.github.io/Categoria-Do-Atleta/)  
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yannkalani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannkalani&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yann-Kalani&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Kalani&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-### 📈 Contribuições
-
-<div align="center">
-  <img src="https://github.com/yannkalani/yannkalani/blob/output/github-snake-custom.svg" alt="Snake animation" />
-</div>
+## 🐍 Minhas contribuições 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yann-Kalani/Yann-Kalani/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yann-Kalani/Yann-Kalani/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribuições estilo snake" src="https://raw.githubusercontent.com/Yann-Kalani/Yann-Kalani/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
